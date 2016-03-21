@@ -1,6 +1,10 @@
 [Adblock Plus 2.0]
 ##video
+##object
 ##.html5-video-player
 ##.video
+##.player
 ##[class*="video"]
-##object
+##[class*="player"]
+##[class*="flash"]
+##[data-content-type*="video"]
